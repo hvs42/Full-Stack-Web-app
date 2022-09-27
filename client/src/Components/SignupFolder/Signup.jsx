@@ -45,7 +45,7 @@ function Signup(){
         <div className="Auth-form-container">
       <form className="Auth-form" onSubmit={postData}>
         <div className="Auth-form-content">
-          <h3 className="Auth-form-title">Sign In</h3>
+          <h3 className="Auth-form-title">Sign Up</h3>
           <div className="form-group mt-3">
             <label>Name</label>
             <input
